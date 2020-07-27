@@ -49,6 +49,8 @@ header h2 {
   background: #3b478b;
   color: white;
   cursor: pointer;
+  font-family: "Red Rose";
+  letter-spacing: 0.1rem;
 }
 
 .gallery-info {
@@ -98,4 +100,6 @@ header h2 {
   color: white;
   font-size: 1.1rem;
   cursor: pointer;
+  font-family: "Red Rose";
+  letter-spacing: 0.1rem;
 }
